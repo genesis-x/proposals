@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/mnzone-dev/3ae983b6f42d3d0766044f94b2b066e5/raw/cc7d5086407bcf5bb46022ed2c2125c27847c736/genesisx-create-proposal.md
